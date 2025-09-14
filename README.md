@@ -47,3 +47,6 @@ python run.py \
   --user-strategy llm \
   --max-concurrency 10
 ```
+
+## Results 
+For task 1, running grok 3 results are saved in `outputs/`
